@@ -6,4 +6,6 @@ print(add(5,5))
 print("Hi")
 print(1+1)
 
+message = "HalloWelt"
+print(message[4:])
 
