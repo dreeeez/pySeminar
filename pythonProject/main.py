@@ -4,5 +4,6 @@ def add(a, b):
 
 print(add(5,5))
 print("Hi")
+print(1+1)
 
 
